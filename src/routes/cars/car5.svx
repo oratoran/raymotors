@@ -1,0 +1,17 @@
+---
+title: 'Car 2 TT'
+slug: 'car2'
+image: 'car2.jpg'
+outline: 'A brief reference to the technologies used to create this website'
+tags: [ { name: 'Svelte Kit', link: 'https://kit.svelte.dev/' }, { name: 'Tailwind', link: 'https://www.tailwindcss.com' }, { name: 'Markdown', link: 'https://www.markdownguide.org/'} ]
+published_at: '3 April 2021'
+---
+
+## Table of Content
+
+1. [TLDR](#tldr)
+2. [Why](#why)
+3. [Context](#context)
+4. [How-to](#how-to)
+5. [Deploying](#deploying)
+6. [Conclusion](#conclusion)
