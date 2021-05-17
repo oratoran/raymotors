@@ -1,7 +1,5 @@
 module.exports = {
-	layout: {
-		blog: "./src/lib/blogLayout.svelte",
-	},
+	layout: {},
 	extensions: [".svelte.md", ".md", ".svx"],
 	smartypants: {
 		dashes: "oldschool",
