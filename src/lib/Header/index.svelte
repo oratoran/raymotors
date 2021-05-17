@@ -5,7 +5,7 @@
 
 <header>
 	<div class="logo">
-		<a href="https://kit.svelte.dev">
+		<a href="/">
 			<img src="{logo}" alt="Ray Motors Classic Mercedes Benz Garage" class="h-28" />
 		</a>
 	</div>
